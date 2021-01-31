@@ -1,0 +1,14 @@
+@font-face {
+  font-family: 'MetroBeardy-mLKJV';
+  src: url('MetroBeardy-mLKJV.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'MetroBeardy';
+  src: url('MetroBeardy.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
